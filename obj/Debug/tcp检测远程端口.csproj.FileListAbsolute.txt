@@ -1,0 +1,17 @@
+E:\dome\dmeo\tcp检测远程端口\bin\Debug\tcp检测远程端口.exe
+E:\dome\dmeo\tcp检测远程端口\bin\Debug\tcp检测远程端口.pdb
+E:\dome\dmeo\tcp检测远程端口\obj\Debug\tcp检测远程端口.Form1.resources
+E:\dome\dmeo\tcp检测远程端口\obj\Debug\tcp检测远程端口.Properties.Resources.resources
+E:\dome\dmeo\tcp检测远程端口\obj\Debug\tcp检测远程端口.csproj.GenerateResource.Cache
+E:\dome\dmeo\tcp检测远程端口\obj\Debug\tcp检测远程端口.exe
+E:\dome\dmeo\tcp检测远程端口\obj\Debug\tcp检测远程端口.pdb
+D:\port1\tcp检测远程端口\bin\Debug\tcp检测远程端口.exe.config
+D:\port1\tcp检测远程端口\bin\Debug\tcp检测远程端口.exe
+D:\port1\tcp检测远程端口\bin\Debug\tcp检测远程端口.pdb
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.csprojAssemblyReference.cache
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.Form1.resources
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.Properties.Resources.resources
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.csproj.GenerateResource.cache
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.csproj.CoreCompileInputs.cache
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.exe
+D:\port1\tcp检测远程端口\obj\Debug\tcp检测远程端口.pdb
